@@ -10,7 +10,6 @@ let port = 4500;
 
 
 let details = [
-    "set",
     {
         id: 1,
         name: "rice",
