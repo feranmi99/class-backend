@@ -125,42 +125,42 @@ let details = [
         name: "Yam Porridge",
         price: "1.25",
         description: "Yam chunks cooked in a flavorful tomato and pepper sauce.",
-        image: "https://example.com/soda.jpg"
+        image: "https://www.thedreamafrica.com/wp-content/uploads/2018/01/Beef-Yam-Porridge.jpg"
     },
     {
         id: 18,
         name: "Chinchinga (Nigerian Kebabs)",
         price: "2.75",
         description: "Skewered and grilled meat, often marinated in a spicy sauce.",
-        image: "https://example.com/chips.jpg"
+        image: "https://foodienotachef.com/wp-content/uploads/2021/06/new-SuyaSpiceChicken-2.png"
     },
     {
         id: 19,
         name: "Efo Riro",
         price: "4.50",
         description: "A Yoruba vegetable soup made with assorted leafy greens, meat, and fish.",
-        image: "https://example.com/ice-cream.jpg"
+        image: "https://lowcarbafrica.com/wp-content/uploads/2019/08/Efo-Riro-IG-2.jpg"
     },
     {
         id: 20,
         name: "Banga Soup (Ofe Akwu)",
         price: "1.75",
         description: "A palm nut soup often served with starchy sides like starch or pounded yam.",
-        image: "https://example.com/yogurt.jpg"
+        image: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS1cSi0T2kvUuOiHVCLz2Reail1R0fiiLjStw&usqp=CAU"
     },
     {
         id: 21,
         name: "Oha Soup",
         price: "3.00",
         description: "A traditional Igbo soup made with oha leaves and flavored with spices and palm oil.",
-        image: "https://example.com/oranges.jpg"
+        image: "https://i.ytimg.com/vi/egHS0xuyFws/maxresdefault.jpg"
     },
     {
         id: 22,
         name: "Ogbolo Soup",
         price: "4.00",
         description: "A delicious soup made from ogbolo seeds, vegetables, and spices.",
-        image: "https://example.com/grapes.jpg"
+        image: "https://assets.unileversolutions.com/recipes-v2/159356.jpg"
     },
     {
         id: 23,
