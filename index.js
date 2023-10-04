@@ -13,14 +13,14 @@ let details = [
         name: "Rice",
         price: "1,500",
         description: "High-quality long-grain rice.",
-        image: "https://example.com/rice.jpg"
+        image: "https://tourandculture.com/wp-content/uploads/2023/01/Popular-Traditional-Nigerian-Food-min.jpg"
     },
     {
         id: 2,
         name: "Wheat",
         price: "2,000",
         description: "Organic whole wheat grains.",
-        image: "https://example.com/wheat.jpg"
+        image: "https://www.willflyforfood.net/wp-content/uploads/2021/06/nigerian-food-afang-soup.jpg"
     },
     // {
     //     id: 3,
