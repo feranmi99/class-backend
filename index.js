@@ -216,56 +216,56 @@ let details = [
         name: "Bell Peppers",
         price: "3.00",
         description: "Colorful and crunchy bell peppers.",
-        image: "https://example.com/bell-peppers.jpg"
+        image: "https://www.google.com/imgres?imgurl=https%3A%2F%2Fwww.willflyforfood.net%2Fwp-content%2Fuploads%2F2021%2F06%2Fnigerian-food-afang-soup.jpg&tbnid=1HnliPsgfei2OM&vet=12ahUKEwj93-_YnNyBAxWQmicCHVorCwQQMygGegQIARB_..i&imgrefurl=https%3A%2F%2Fwww.willflyforfood.net%2Ffood-in-nigeria%2F&docid=jb62YAkPDuE9MM&w=1200&h=800&q=nigeriafoods&ved=2ahUKEwj93-_YnNyBAxWQmicCHVorCwQQMygGegQIARB_"
     },
     {
         id: 31,
         name: "Cucumbers",
         price: "1.50",
         description: "Cool and refreshing cucumbers.",
-        image: "https://example.com/cucumbers.jpg"
+        image: "https://www.google.com/imgres?imgurl=https%3A%2F%2Fwww.willflyforfood.net%2Fwp-content%2Fuploads%2F2021%2F06%2Fnigerian-food-afang-soup.jpg&tbnid=1HnliPsgfei2OM&vet=12ahUKEwj93-_YnNyBAxWQmicCHVorCwQQMygGegQIARB_..i&imgrefurl=https%3A%2F%2Fwww.willflyforfood.net%2Ffood-in-nigeria%2F&docid=jb62YAkPDuE9MM&w=1200&h=800&q=nigeriafoods&ved=2ahUKEwj93-_YnNyBAxWQmicCHVorCwQQMygGegQIARB_"
     },
     {
         id: 32,
         name: "Mangoes",
         price: "4.50",
         description: "Sweet and tropical mangoes.",
-        image: "https://example.com/mangoes.jpg"
+        image: "https://www.google.com/imgres?imgurl=https%3A%2F%2Fwww.willflyforfood.net%2Fwp-content%2Fuploads%2F2021%2F06%2Fnigerian-food-afang-soup.jpg&tbnid=1HnliPsgfei2OM&vet=12ahUKEwj93-_YnNyBAxWQmicCHVorCwQQMygGegQIARB_..i&imgrefurl=https%3A%2F%2Fwww.willflyforfood.net%2Ffood-in-nigeria%2F&docid=jb62YAkPDuE9MM&w=1200&h=800&q=nigeriafoods&ved=2ahUKEwj93-_YnNyBAxWQmicCHVorCwQQMygGegQIARB_"
     },
     {
         id: 33,
         name: "Pineapples",
         price: "3.75",
         description: "Juicy and tangy pineapples.",
-        image: "https://example.com/pineapples.jpg"
+        image: "https://www.google.com/imgres?imgurl=https%3A%2F%2Fwww.willflyforfood.net%2Fwp-content%2Fuploads%2F2021%2F06%2Fnigerian-food-afang-soup.jpg&tbnid=1HnliPsgfei2OM&vet=12ahUKEwj93-_YnNyBAxWQmicCHVorCwQQMygGegQIARB_..i&imgrefurl=https%3A%2F%2Fwww.willflyforfood.net%2Ffood-in-nigeria%2F&docid=jb62YAkPDuE9MM&w=1200&h=800&q=nigeriafoods&ved=2ahUKEwj93-_YnNyBAxWQmicCHVorCwQQMygGegQIARB_"
     },
     {
         id: 34,
         name: "Watermelon",
         price: "5.00",
         description: "Refreshing and hydrating watermelons.",
-        image: "https://example.com/watermelon.jpg"
+        image: "https://www.google.com/imgres?imgurl=https%3A%2F%2Fwww.willflyforfood.net%2Fwp-content%2Fuploads%2F2021%2F06%2Fnigerian-food-afang-soup.jpg&tbnid=1HnliPsgfei2OM&vet=12ahUKEwj93-_YnNyBAxWQmicCHVorCwQQMygGegQIARB_..i&imgrefurl=https%3A%2F%2Fwww.willflyforfood.net%2Ffood-in-nigeria%2F&docid=jb62YAkPDuE9MM&w=1200&h=800&q=nigeriafoods&ved=2ahUKEwj93-_YnNyBAxWQmicCHVorCwQQMygGegQIARB_"
     },
     {
         id: 35,
         name: "Lemons",
         price: "1.00",
         description: "Sour and citrusy lemons.",
-        image: "https://example.com/lemons.jpg"
+        image: "https://www.google.com/imgres?imgurl=https%3A%2F%2Fwww.willflyforfood.net%2Fwp-content%2Fuploads%2F2021%2F06%2Fnigerian-food-afang-soup.jpg&tbnid=1HnliPsgfei2OM&vet=12ahUKEwj93-_YnNyBAxWQmicCHVorCwQQMygGegQIARB_..i&imgrefurl=https%3A%2F%2Fwww.willflyforfood.net%2Ffood-in-nigeria%2F&docid=jb62YAkPDuE9MM&w=1200&h=800&q=nigeriafoods&ved=2ahUKEwj93-_YnNyBAxWQmicCHVorCwQQMygGegQIARB_"
     },
     {
         id: 36,
         name: "Lettuce",
         price: "1.75",
         description: "Crisp and fresh lettuce leaves.",
-        image: "https://example.com/lettuce.jpg"
+        image: "https://www.google.com/imgres?imgurl=https%3A%2F%2Fwww.willflyforfood.net%2Fwp-content%2Fuploads%2F2021%2F06%2Fnigerian-food-afang-soup.jpg&tbnid=1HnliPsgfei2OM&vet=12ahUKEwj93-_YnNyBAxWQmicCHVorCwQQMygGegQIARB_..i&imgrefurl=https%3A%2F%2Fwww.willflyforfood.net%2Ffood-in-nigeria%2F&docid=jb62YAkPDuE9MM&w=1200&h=800&q=nigeriafoods&ved=2ahUKEwj93-_YnNyBAxWQmicCHVorCwQQMygGegQIARB_"
     },
     {
         id: 37,
         name: "Pears",
         price: "2.25",
         description: "Sweet and juicy pears.",
-        image: "https://example.com/pears.jpg"
+        image: "https://www.google.com/imgres?imgurl=https%3A%2F%2Fwww.willflyforfood.net%2Fwp-content%2Fuploads%2F2021%2F06%2Fnigerian-food-afang-soup.jpg&tbnid=1HnliPsgfei2OM&vet=12ahUKEwj93-_YnNyBAxWQmicCHVorCwQQMygGegQIARB_..i&imgrefurl=https%3A%2F%2Fwww.willflyforfood.net%2Ffood-in-nigeria%2F&docid=jb62YAkPDuE9MM&w=1200&h=800&q=nigeriafoods&ved=2ahUKEwj93-_YnNyBAxWQmicCHVorCwQQMygGegQIARB_"
     },
     {
         id: 38,
