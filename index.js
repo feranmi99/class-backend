@@ -22,41 +22,41 @@ let details = [
         description: "Organic whole wheat grains.",
         image: "https://www.willflyforfood.net/wp-content/uploads/2021/06/nigerian-food-afang-soup.jpg"
     },
-    // {
-    //     id: 3,
-    //     name: "Pasta",
-    //     price: "800",
-    //     description: "Assorted pasta shapes for all occasions.",
-    //     image: "https://example.com/pasta.jpg"
-    // },
-    // {
-    //     id: 4,
-    //     name: "Apples",
-    //     price: "3.50",
-    //     description: "Fresh and crisp apples from local orchards.",
-    //     image: "https://example.com/apples.jpg"
-    // },
-    // {
-    //     id: 5,
-    //     name: "Bananas",
-    //     price: "2.50",
-    //     description: "Sweet and ripe bananas.",
-    //     image: "https://example.com/bananas.jpg"
-    // },
-    // {
-    //     id: 6,
-    //     name: "Tomatoes",
-    //     price: "1.20",
-    //     description: "Juicy and red vine-ripened tomatoes.",
-    //     image: "https://example.com/tomatoes.jpg"
-    // },
-    // {
-    //     id: 7,
-    //     name: "Milk",
-    //     price: "2.00",
-    //     description: "Fresh dairy milk from local farms.",
-    //     image: "https://example.com/milk.jpg"
-    // },
+    {
+        id: 3,
+        name: "Pasta",
+        price: "800",
+        description: "Assorted pasta shapes for all occasions.",
+        image: "https://blog.remitly.com/wp-content/uploads/2022/09/different-Nigerian-dishes.jpeg"
+    },
+    {
+        id: 4,
+        name: "Apples",
+        price: "3.50",
+        description: "Fresh and crisp apples from local orchards.",
+        image: "https://img.buzzfeed.com/buzzfeed-static/static/2015-03/27/6/enhanced/webdr08/original-grid-image-6752-1427453005-8.jpg?crop=894:667;107,0"
+    },
+    {
+        id: 5,
+        name: "Bananas",
+        price: "2.50",
+        description: "Sweet and ripe bananas.",
+        image: "https://www.willflyforfood.net/wp-content/uploads/2021/06/nigerian-food-afang-soup.jpg"
+    },
+    {
+        id: 6,
+        name: "Tomatoes",
+        price: "1.20",
+        description: "Juicy and red vine-ripened tomatoes.",
+        image: "https://i0.wp.com/thetrumpet.ng/wp-content/uploads/2022/08/yam-porridge.jpg"
+    },
+    {
+        id: 7,
+        name: "Milk",
+        price: "2.00",
+        description: "Fresh dairy milk from local farms.",
+        image: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ7fAZmxff4zxCNR4nuUUB4z6-a8u98XvHtSgORl5E-4UaRzSg0p0lwr_eTiOZJ5CHDdJ8&usqp=CAU"
+    },
     // {
     //     id: 8,
     //     name: "Eggs",
