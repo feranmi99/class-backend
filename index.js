@@ -216,7 +216,7 @@ let details = [
         name: "Akpu and Black Soup",
         price: "3.00",
         description: "A traditional Igbo dish consisting of akpu (fermented cassava) and black soup.",
-        image: "https://guardian.ng/wp-content/uploads/2020/03/Nigerian-Black-soup.-Img-by-1QFoodplatter.jpg_"
+        image: "https://1.bp.blogspot.com/-ghuj6XkFp-w/X-soadJL7sI/AAAAAAAAATA/v6mbF4cbZwA_xtyB0aEki9jQQ9vAdyv7ACLcBGAsYHQ/w1200-h630-p-k-no-nu/0DD2AFAA-3233-4FB5-982B-91573C68B5ED.jpeg"
     },
     {
         id: 31,
