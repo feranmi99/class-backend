@@ -167,266 +167,266 @@ let details = [
         name: "Kilishi",
         price: "5.50",
         description: "A Nigerian beef jerky, seasoned and dried to perfection, making it a popular snack.",
-        image: "https://example.com/strawberries.jpg"
+        image: "https://obalendefoods.com/cdn/shop/files/4F8230D4-C92C-4137-8F89-F26F48856F8F_1_201_a.jpg?v=1682913426&width=1445"
     },
     {
         id: 24,
         name: "Ukodo",
         price: "2.50",
         description: "A yam pepper soup made with goat meat and yam chunks.",
-        image: "https://example.com/avocado.jpg"
+        image: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRLHghu633m7tJEUQFr8t-FbmSN7qMdmjrbuQ&usqp=CAU"
     },
     {
         id: 25,
         name: "Tuwo Shinkafa",
         price: "1.75",
         description: "A northern Nigerian dish made from mashed rice and served with various soups.",
-        image: "https://example.com/carrots.jpg"
+        image: "https://eatwellabi.com/wp-content/uploads/2022/10/Jamaican-chicken-soup-and-tuwo-16-720x480.jpg"
     },
     {
         id: 26,
         name: "Afang Soup",
         price: "2.00",
         description: "A vegetable soup made from the afang leaf, often cooked with a variety of proteins.",
-        image: "https://example.com/spinach.jpg"
+        image: "https://agameals.com/wp-content/uploads/2022/11/maxresdefault-52-1140x694-1.jpg"
     },
     {
         id: 27,
         name: "Abacha and Ugba",
         price: "2.25",
         description: "A popular Igbo dish made from cassava and African oil bean seed.",
-        image: "https://example.com/broccoli.jpg"
+        image: "https://guardian.ng/wp-content/uploads/2018/08/Abacha.-Photo-Dailyfresheat-e1534627240972-1062x598.png"
     },
     {
         id: 28,
         name: "Semo and Egusi Soup",
         price: "2.50",
         description: "Semo is a swallow made from semolina and is often served with egusi soup.",
-        image: "https://example.com/potatoes.jpg"
+        image: "https://amalacentralfoods.com/wp-content/uploads/2023/01/Egusi-soup.jpg"
     },
     {
         id: 29,
         name: "Gbegiri Soup",
         price: "1.20",
         description: "A Yoruba bean soup typically served with amala.",
-        image: "https://example.com/onions.jpg"
+        image: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR7D_90XpEYWI_Km6usKuijuJ-A2onIknM4WA&usqp=CAU"
     },
     {
         id: 30,
         name: "Akpu and Black Soup",
         price: "3.00",
         description: "A traditional Igbo dish consisting of akpu (fermented cassava) and black soup.",
-        image: "https://xWQmicCHVorCwQQMygGegQIARB_"
+        image: "https://guardian.ng/wp-content/uploads/2020/03/Nigerian-Black-soup.-Img-by-1QFoodplatter.jpg_"
     },
     {
         id: 31,
         name: "Nkwobi",
         price: "1.50",
         description: "A spicy cow foot dish often served as a side dish or appetizer.",
-        image: "https://www.google.com/imgres?imgurl=https%3A%2F%2Fwww.willflyforfood.net%2Fwp-content%2FuploacCHVorCwQQMygGegQIARB_"
+        image: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTB0Er0CefZt6Dh1rFtp7n28z1GqIFcOFlnBQ&usqp=CAU"
     },
     {
         id: 32,
         name: "Asun",
         price: "4.50",
         description: "Spicy grilled goat meat skewers, a popular Nigerian barbecue dish.",
-        image: "https://www.google.com/imgres?imgurl=https%3A%2F%2Fwww.willflyforfood.net%2Fwp-content%2FuploacCHVorCwQQMygGegQIARB_"
+        image: "https://guardian.ng/wp-content/uploads/2020/08/Peppered-Goat-Meat-Image-Youtube.jpg"
     },
     {
         id: 33,
         name: "Ekpang Nkukwo",
         price: "3.75",
         description: "A Cross River State specialty made with cocoyam and leafy vegetables.",
-        image: "https://www.google.com/imgres?imgurl=https%3A%2F%2Fwww.willflyforfood.net%2Fwp-content%2FuploacCHVorCwQQMygGegQIARB_"
+        image: "https://comechopnaija.com/wp-content/uploads/2017/12/epkang.jpg"
     },
     {
         id: 34,
         name: "Pounded Yam and Ogbono Soup",
         price: "5.00",
         description: "Pounded yam served with ogbono soup, a slimy Nigerian soup.",
-        image: "https://www.google.com/imgres?imgurl=https%3A%2F%2Fwww.willflyforfood.net%2Fwp-content%2FuploacCHVorCwQQMygGegQIARB_"
+        image: "https://aliyahsrecipesandtips.com/wp-content/uploads/2020/03/Ogbono-with-okra-soup-500x375.jpg"
     },
     {
         id: 35,
         name: "Ewa Agoyin",
         price: "1.00",
         description: " Mashed beans served with a spicy sauce made from palm oil and ground peppers.",
-        image: "https://www.google.com/imgres?imgurl=https%3A%2F%2Fwww.willflyforfood.net%2Fwp-content%2FuploacCHVorCwQQMygGegQIARB_"
+        image: "https://www.bellanaija.com/wp-content/uploads/2023/08/1AAA64B1-448F-4F16-82B9-91A8DD8A1184.jpeg"
     },
     {
         id: 36,
         name: "Fried Fish",
         price: "1.75",
         description: "Whole fish seasoned and deep-fried until crispy.",
-        image: "https://www.google.com/imgres?imgurl=https%3A%2F%2Fwww.willflyforfood.net%2Fwp-content%2FuploacCHVorCwQQMygGegQIARB_"
+        image: "https://images.squarespace-cdn.com/content/v1/52d3fafee4b03c7eaedee15f/1627342360931-9UPWBOPY8FL38EX45K2I/EOS+M50_4391.jpg"
     },
     {
         id: 37,
         name: "Starch and Banga Soup",
         price: "2.25",
         description: "Starchy side dish served with banga soup made from palm fruit.",
-        image: "https://www.google.com/imgres?imgurl=https%3A%2F%2Fwww.willflyforfood.net%2Fwp-content%2FuploacCHVorCwQQMygGegQIARB_"
+        image: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRSVhDmNdckyUaa0JBHzWd2L0FguPoH2EDDCA&usqp=CAU"
     },
     {
         id: 38,
         name: "Ogi (Pap)",
         price: "2.50",
         description: "A Nigerian breakfast porridge made from maize, millet, or sorghum.",
-        image: "https://example.com/grapefruit.jpg"
+        image: "https://www.diettechafrica.com/wp-content/uploads/2020/07/Akamu-cover-pic.jpg"
     },
     {
         id: 39,
         name: "Boiled Maize and Pear",
         price: "3.50",
         description: "Maize (corn) on the cob, boiled and often enjoyed with pear (avocado).",
-        image: "https://example.com/blueberries.jpg"
+        image: "https://i.ytimg.com/vi/BrbWbGwIh1I/maxresdefault.jpg"
     },
     {
         id: 40,
         name: "Garden Egg Sauce",
         price: "4.00",
         description: "A tasty sauce made from garden eggs (a type of eggplant) and palm oil.",
-        image: "https://example.com/raspberries.jpg"
+        image: "https://morningfresh.com.ng/wp-content/uploads/2019/11/Untitled-1-1080x675.jpg"
     },
     {
         id: 41,
-        name: "Nkwobi",
+        name: "Spaghetti",
         price: "1,500",
-        description: "A spicy cow foot dish often served as a side dish or appetizer.",
-        image: "https://tourandculture.com/wp-content/uploads/2023/01/Popular-Traditional-Nigerian-Food-min.jpg"
+        description: "A unique Nigerian twist on the classic Italian pasta dish. It often includes a rich tomato-based sauce with spices and ingredients like vegetables, sausage, and sometimes a hint of local spices for a delightful fusion of flavors..",
+        image: "https://i.ytimg.com/vi/xbVrrViGTJM/maxresdefault.jpg"
     },
     {
         id: 42,
         name: "Ewedu and Starch",
         price: "2,000",
         description: "A Yoruba dish with Ewedu soup, made from jute leaves, and served with starch.",
-        image: "https://www.willflyforfood.net/wp-content/uploads/2021/06/nigerian-food-afang-soup.jpg"
+        image: "https://i.pinimg.com/736x/51/f6/10/51f61020e9e00fd823dee14c5fb79128.jpg"
     },
     {
         id: 43,
         name: "Ogbono and Semolina",
         price: "800",
         description: " Ogbono soup served with semolina swallow.",
-        image: "https://blog.remitly.com/wp-content/uploads/2022/09/different-Nigerian-dishes.jpeg"
+        image: "https://i.pinimg.com/originals/c8/8b/82/c88b82250db1219a309b9fdfb8b5d26e.jpg"
     },
     {
         id: 44,
         name: "Fisherman Soup",
         price: "3.50",
         description: "A delicious soup made with various types of seafood, popular in the Niger Delta region.",
-        image: "https://img.buzzfeed.com/buzzfeed-static/static/2015-03/27/6/enhanced/webdr08/original-grid-image-6752-1427453005-8.jpg?crop=894:667;107,0"
+        image: "https://i.ytimg.com/vi/IivsmcVOC5o/maxresdefault.jpg"
     },
     {
         id: 45,
         name: "Bitter Leaf Soup",
         price: "2.50",
         description: "A traditional Nigerian soup made with bitter leaf and a variety of meats.",
-        image: "https://www.willflyforfood.net/wp-content/uploads/2021/06/nigerian-food-afang-soup.jpg"
+        image: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT6JEtDt8o_is-LYuvoyl2r0Q1A_FQB26Sz0BiSSDBc2-1eAmlVR6rw0zjZFhgp3QpS__4&usqp=CAU"
     },
     {
         id:46,
         name: "Edikang Ikong Soup",
         price: "1.20",
         description: "A thick and creamy soup made with groundnuts (peanuts) and served with fufu.",
-        image: "https://i0.wp.com/thetrumpet.ng/wp-content/uploads/2022/08/yam-porridge.jpg"
+        image: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSIWuJ4X8M0OkvTQuK39B6ihADM63uiJiQa8H8Uqx0ZUO-E5Jrt8LNjjP5lVDZYBDEJwKQ&usqp=CAU"
     },
     {
         id: 47,
         name: "Groundnut Soup (Peanut Soup)",
         price: "2.00",
         description: "A thick and creamy soup made with groundnuts (peanuts) and served with fufu.",
-        image: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ7fAZmxff4zxCNR4nuUUB4z6-a8u98XvHtSgORl5E-4UaRzSg0p0lwr_eTiOZJ5CHDdJ8&usqp=CAU"
+        image: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQJ4xirbmVaYfLLhjt7D9FWJyv2S6GrSJswlvcgq9pJDSJd2fh16gZohqgCfTH_os9i7xU&usqp=CAU"
     },
     {
         id: 48,
-        name: "Nkwobi",
+        name: "Fufu",
         price: "1.50",
-        description: "A spicy cow foot dish often served as a side dish or appetizer.",
-        image: "https://example.com/eggs.jpg"
+        description: "A staple Nigerian food made from starchy vegetables like cassava, yam, or plantains. It's boiled, pounded, and shaped into a dough-like consistency. Fufu is often served with a variety of delicious soups and sauces.",
+        image: "https://recipefairy.com/wp-content/uploads/2021/06/how-to-make-fufu.jpg"
     },
     {
         id: 49,
         name: "Ugba Salad",
         price: "5.00",
         description: "A salad made from African oil bean seed (ugba) and vegetables.",
-        image: "https://example.com/chicken.jpg"
+        image: "https://www.shutterstock.com/image-photo/close-shot-plate-african-salad-600w-1529467949.jpg"
     },
     {
         id: 50,
         name: "Ofe Nsala (White Soup)",
         price: "6.50",
         description: "A flavorful Igbo soup made with yam and a variety of proteins.",
-        image: "https://example.com/fish.jpg"
+        image: "https://i.ytimg.com/vi/tIjwSMTkRzI/hq720.jpg?sqp=-oaymwEhCK4FEIIDSFryq4qpAxMIARUAAAAAGAElAADIQj0AgKJD&rs=AOn4CLC1jlc-wCG8uieQTi75xboEKMPe7Q"
     },
     {
         id: 51,
         name: "Ewa Riro",
         price: "1,500",
         description: " A delicious Yoruba dish made from mashed beans and a spicy sauce.",
-        image: "https://tourandculture.com/wp-content/uploads/2023/01/Popular-Traditional-Nigerian-Food-min.jpg"
+        image: "https://cheflolaskitchen.com/wp-content/uploads/2017/01/ewa-riro-1.jpg"
     },
     {
         id: 52,
         name: "Okpa",
         price: "2,000",
         description: " A steamed bean pudding made from Bambara groundnuts, popular in the eastern part of Nigeria.",
-        image: "https://www.willflyforfood.net/wp-content/uploads/2021/06/nigerian-food-afang-soup.jpg"
+        image: "https://tribuneonlineng.com/wp-content/uploads/2022/10/F4A5B55A-CF95-4BB5-BA44-E038ADCC73BF.jpeg"
     },
     {
         id: 53,
         name: "Achara Soup",
         price: "800",
         description: "A sour soup made from cocoyam and flavored with achara (a type of vegetable).",
-        image: "https://blog.remitly.com/wp-content/uploads/2022/09/different-Nigerian-dishes.jpeg"
+        image: "https://img-global.cpcdn.com/recipes/997f8d2bd854253b/1200x630cq70/photo.jpg"
     },
     {
         id: 54,
         name: "Kokoro",
         price: "3.50",
         description: "A Nigerian snack made from roasted maize and sugar.",
-        image: "https://img.buzzfeed.com/buzzfeed-static/static/2015-03/27/6/enhanced/webdr08/original-grid-image-6752-1427453005-8.jpg?crop=894:667;107,0"
+        image: "https://3.bp.blogspot.com/-kqp2EAX51qo/UVJ5vORZvkI/AAAAAAAAAio/pT3zV0enliE/s1600/kokoro+nigerian+snacks.jpg"
     },
     {
         id: 55,
         name: "Ogiri",
         price: "2.50",
         description: " A traditional Nigerian condiment made from fermented oil seeds.",
-        image: "https://www.willflyforfood.net/wp-content/uploads/2021/06/nigerian-food-afang-soup.jpg"
+        image: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSN6wALbctrv_WWOHWx3j8O43_Pb18clWUbGg&usqp=CAU"
     },
     {
         id:56,
         name: "Coconut Rice",
         price: "1.20",
         description: "A flavorful rice dish cooked with coconut milk and spices.",
-        image: "https://i0.wp.com/thetrumpet.ng/wp-content/uploads/2022/08/yam-porridge.jpg"
+        image: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTMZYkt1pYTNiUULIH4nwpKgMp-P5YyWYSgyg&usqp=CAU"
     },
     {
         id: 57,
         name: "Nsala Soup",
         price: "2.00",
         description: " A white soup made with yam and a blend of spices, popular in Igbo cuisine.",
-        image: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ7fAZmxff4zxCNR4nuUUB4z6-a8u98XvHtSgORl5E-4UaRzSg0p0lwr_eTiOZJ5CHDdJ8&usqp=CAU"
+        image: "https://i.ytimg.com/vi/yOr7sx6Usfg/maxresdefault.jpg"
     },
     {
         id: 58,
         name: "Suya Spaghetti",
         price: "1.50",
         description: " Spaghetti noodles with a spicy suya sauce, a fusion of Italian and Nigerian flavors.",
-        image: "https://example.com/eggs.jpg"
+        image: "https://i0.wp.com/www.nigerianlazychef.com/wp-content/uploads/2015/08/IMG_7298-2.jpg?ssl=1"
     },
     {
         id: 59,
         name: "Gurasa",
         price: "5.00",
         description: " A popular northern Nigerian bread, often served with sauce or grilled",
-        image: "https://example.com/chicken.jpg"
+        image: "https://img-global.cpcdn.com/recipes/508f238f769dee1d/1200x630cq70/photo.jpg"
     },
     {
         id: 60,
         name: "Uji (Pap)",
         price: "6.50",
         description: "A porridge made from fermented corn or millet, a common breakfast dish in Nigeria.",
-        image: "https://example.com/fish.jpg"
+        image: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR2OpTdL5UpLNIcCtkGGuJmyF9sLLtyRU17QA&usqp=CAU"
     },
 ];
 
