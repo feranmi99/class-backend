@@ -412,7 +412,7 @@ let details = [
         name: "Suya Spaghetti",
         rating: "1.50",
         description: " Spaghetti noodles with a spicy suya sauce, a fusion of Italian and Nigerian flavors.",
-        image: "https://i0.wp.com/www.nigerianlazychef.com/wp-content/uploads/2015/08/IMG_7298-2.jpg?ssl=1"
+        image: "https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.facebook.com%2Fdeesdishes%2Fphotos%2Fa.161591282431675%2F219800876610715%2F%3Ftype%3D3&psig=AOvVaw023p2TXzEfqEDoZFb6obz3&ust=1697191922405000&source=images&cd=vfe&opi=89978449&ved=0CBEQjRxqFwoTCJjVmuWi8IEDFQAAAAAdAAAAABAJ"
     },
     {
         id: 59,
